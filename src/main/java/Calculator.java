@@ -2,6 +2,9 @@ import java.util.Random;
 
 class Calculator {
 
+    /**
+     * This is an empty constructor.
+     */
     Calculator(){
 
     }
