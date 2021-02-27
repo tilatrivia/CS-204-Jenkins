@@ -6,7 +6,7 @@ class Calculator {
      * This is an empty constructor.
      */
     Calculator(){
-        herp derp
+        
     }
 
     int add(int a , int b){
